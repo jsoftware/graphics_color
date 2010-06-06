@@ -1,5 +1,7 @@
 NB. hues
 
+cocurrent 'z'
+
 NB. =========================================================
 NB.*hue v generate select color
 NB. x is color set
