@@ -5,3 +5,6 @@ graphics/color - change history
 
 == 1.0.1 ==
  * add html colortable
+
+== 1.0.2 ==
+ * add BGR verb
