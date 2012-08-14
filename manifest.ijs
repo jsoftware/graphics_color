@@ -6,7 +6,7 @@ DESCRIPTION=: 0 : 0
 Color tables and related scripts.
 )
 
-VERSION=: '1.0.4'
+VERSION=: '1.0.5'
 
 RELEASE=: 'j701'
 
