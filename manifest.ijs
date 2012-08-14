@@ -13,8 +13,10 @@ RELEASE=: 'j701'
 FILES=: 0 : 0
 color.txt
 color16.ijs
-colortab.ijs
 colortab.html
+colortab.ijs
+colorx256.html
+colorx256.ijs
 html.ijs
 hues.ijs
 rgb.ijs

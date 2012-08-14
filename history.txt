@@ -8,3 +8,6 @@ graphics/color - change history
 
 == 1.0.2 ==
  * add BGR verb
+
+== 1.0.3 ==
+ * add xterm 256
