@@ -6,9 +6,9 @@ DESCRIPTION=: 0 : 0
 Color tables and related scripts.
 )
 
-VERSION=: '1.0.10'
+VERSION=: '1.0.11'
 
-RELEASE=: 'j701 j801'
+RELEASE=: 'j802'
 
 FILES=: 0 : 0
 color.txt
