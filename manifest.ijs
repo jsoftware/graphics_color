@@ -22,4 +22,3 @@ hues.ijs
 rgb.ijs
 xwin.ijs
 )
-PLATFORMS=: 'linux win darwin android'
