@@ -8,7 +8,9 @@ Color tables and related scripts.
 
 VERSION=: '1.0.18'
 
-RELEASE=: 'j804 j805 j806 j807'
+RELEASE=: ''
+
+FOLDER=: 'graphics/color'
 
 FILES=: 0 : 0
 color.txt
