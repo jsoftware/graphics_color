@@ -37,8 +37,8 @@ cls=. >. num % rws
 irws=. w % rws
 icls=. h % cls
 xy=. > , |: { (irws * i.rws);icls * i.cls
-rect=. num {. xy ,"1 irws,icls
-cmd=. glrect_jgl2_@[ glbrush_jgl2_@glrgb_jgl2_
+rect=. <. 0.5 + num {. xy ,"1 irws,icls
+cmd=. glrect@[ glbrush@glrgb
 (0 0,w,h) cmd 128 128 128
 rect cmd"1 Colors
 )

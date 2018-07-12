@@ -6,7 +6,7 @@ DESCRIPTION=: 0 : 0
 Color tables and related scripts.
 )
 
-VERSION=: '1.0.18'
+VERSION=: '1.0.19'
 
 RELEASE=: ''
 
